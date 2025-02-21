@@ -41,7 +41,7 @@ Before configuring anything, it’s important to understand the key distinction 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Acknowledge Agent Panel vs Admin Panel
+
 
 Configure Roles (for grouping permissions)
 Admin Panel -> Agents -> Roles
