@@ -25,7 +25,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 5
 
 
-Step 1: Acknowledging the Difference Between the Agent Panel and the Admin Panel
+
+
+Acknowledging the Difference Between the Agent Panel and the Admin Panel
 
 Before configuring anything, it’s important to understand the key distinction between the Agent Panel and the Admin Panel.
 	•	The Agent Panel is where individual agents carry out their daily tasks. It’s mostly execution: handling tickets, responding to inquiries, and engaging with customers.
