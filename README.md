@@ -27,6 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
+
 <h2>Acknowledging the Difference Between the Agent Panel and the Admin Panel</h2>
 
 Before configuring anything, it’s important to understand the key distinction between the Agent Panel and the Admin Panel.
