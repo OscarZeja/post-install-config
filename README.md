@@ -31,6 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Acknowledging the Difference Between the Agent Panel and the Admin Panel</h2>
 
 Before configuring anything, it’s important to understand the key distinction between the Agent Panel and the Admin Panel.
+
 	•	The Agent Panel is where individual agents carry out their daily tasks. It’s mostly execution: handling tickets, responding to inquiries, and engaging with customers.
 	•	The Admin Panel is where configuration happens. This is where roles, departments, and teams are defined, laying the foundation for an efficient workflow.
 
