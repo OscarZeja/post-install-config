@@ -53,8 +53,9 @@ Configure Teams
 Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
 	•	Online Banking
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+![Screenshot 2025-02-27 203657](https://github.com/user-attachments/assets/4acdfc48-fdab-4b4a-b876-699338e12941)
+
 
 Allow anyone to create tickets
 Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
@@ -70,10 +71,11 @@ Agent Panel -> Users -> Add New
 	•	Karen
 	•	Ken
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+
+
+![Screenshot 2025-02-27 204039](https://github.com/user-attachments/assets/eb59c157-0494-45a5-bb41-2fad8bf5e81c)
+
+
 
 Configure SLA
 Admin Panel -> Manage -> SLA
@@ -88,3 +90,8 @@ Admin Panel -> Manage -> Help Topics
 	•	Equipment Request
 	•	Password Reset
 	•	Other
+
+
+
+ ![Screenshot 2025-02-27 204329](https://github.com/user-attachments/assets/079fc9b0-34eb-412e-b124-4c8c539472b1)
+
