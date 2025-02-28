@@ -36,10 +36,9 @@ Before configuring anything, it’s important to understand the key distinction 
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+
+
+![Untitled design](https://github.com/user-attachments/assets/d6237115-80a4-4800-b4df-04176a6094c8)
 
 
 Configure Roles (for grouping permissions)
